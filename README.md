@@ -61,7 +61,7 @@ Usage:
 
 ***
    
-  ####  💡 .loc -> is used for labe-based selection
+  ####  💡 .loc -> is used for label-based selection
 
 ***
   
