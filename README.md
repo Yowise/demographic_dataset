@@ -1,4 +1,4 @@
-# demographic_dataset
+# Demographic dataset analyze
 
 ##### This exercise is inspired by [freeCodeCamp's Demographic Data Analyzer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer). It's only for practice purposes. 
 
